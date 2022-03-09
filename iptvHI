@@ -1,0 +1,85 @@
+#EXTM3U:
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon",104.Bangla Kids 
+http://14.199.164.20:4001/play/a0m1/index.m3u8
+#EXTINF:-1,BoogleBollywood
+https://m-c01-j2apps.s.llnwi.net/hls/5416.BoogleBollywood.in_480p/index.m3u8
+#EXTINF:-1, MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-name=" " tvg-logo="" group-title="ABGIBS",  Sangeet Bangla
+https://m-c02-j2apps.s.loris.llnwd.net/hls/0138.SangeetBangla.in.m3u8
+#EXTINF:-1 tvg-name=" " tvg-logo="" group-title="ABGIBS",  FOOD FOOD
+https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
+#EXTINF:2,Filmy
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_480p/index.m3u8
+#EXTINF:-1 tvg-name=" " tvg-logo="" group-title="ABGIBS",   News18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8
+#EXTINF:-1,ABPAnanda
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7015.ABPAnanda.in_480p/index.m3u8
+#EXTINF:1,DD India
+https://m-c15-j2apps.s.llnwi.net/hls/0180.DDIndia.in_480p/index.m3u8
+#EXTINF:1,SANSAD TV
+https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in_480p/index.m3u8
+#EXTINF:-1 tvg-name=" " tvg-logo="" group-title="ABGIBS",  AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-name=" " tvg-logo="" group-title="ABGIBS",   ABP Ganga
+https://abp-i.akamaihd.net/hls/live/796944/abpganga/master_764.m3u8
+#EXTINF:-1,ABP ANANDA
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7015.ABPAnanda.in.m3u8
+
+#EXTINF:-1,ORANGE BANGLA
+
+https://m-c18-j2apps.s.llnwi.net/hls/7042.OrangeBangla.in.m3u8
+
+#EXTINF:-1,SANGEET BANGLA
+
+https://m-c02-j2apps.s.loris.llnwd.net/hls/0138.SangeetBangla.in.m3u8
+
+#EXTINF:-1,CALCUTTA NEWS
+
+https://m-c05-j2apps.s.llnwi.net/hls/7063.CalcuttaNews.in.m3u8
+
+#EXTINF:-1,RONGEEN TV
+
+https://m-c09-j2apps.s.llnwi.net/hls/8027.RongeenTV.in.m3u8
+
+#EXTINF:-1,SHINE TV
+
+https://m-c035-j2apps.s.llnwi.net/hls/8053.ShineTV.in.m3u8
+
+#EXTINF:-1,EXPRESS NEWS
+
+https://m-c050-j2apps.s.llnwi.net/hls/8029.ExpressNews.in.m3u8
+#EXTINF:-1,DW NEWS
+
+https://m-c08-j2apps.s.llnwi.net/hls/7008.TV5MondeASIE.in.m3u8
+
+#EXTINF:-1,FIGHT TV
+
+https://m-c09-j2apps.s.llnwi.net/hls/8014.FightTV.in.m3u8
+
+#EXTINF:-1,SUN BANGLA
+
+https://llvod.mxplay.com/video/a9ad422473cc3de811da3ddcdd423110/hls/h264_high.m3u8
+
+#EXTINF:-1,FOOD FOOD
+
+https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
+#EXTINF:-1 tvg-name=" " tvg-logo="" group-title="ABGIBS",  MUSIC INDIA
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-name=" " tvg-logo="" group-title="ABGIBS",  MUSIC INDIA
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+
+#EXTINF:20,B4U KADAK
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-name=" " tvg-logo="" group-title="ABGIBS",  BFLIX MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 tvg-name=" " tvg-logo="" group-title="ABGIBS",  DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:1,DD Retro
+https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in_480p/index_dvr.m3u8
+#EXTINF:1,DD UP
+https://m-c16-j2apps.s.llnwi.net/hls/0290.DDUP.in_480p/index.m3u8
+#EXTINF:-1 tvg-name=" " tvg-logo="" group-title="ABGIBS",  ABP NEWS
+https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
